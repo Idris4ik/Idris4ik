@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Idris4ik
+- 👀 I’m interested in web-development
+- 🌱 I’m currently learning HTML, css, js, boostrap 
+- 💞️ I’m looking to collaborate on SpaceX
+- 📫 How to reach me Tajikistan 🇹🇯, Dushanbe

@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Idris4ik
-- 👀 I’m interested in web-development, AI-development
-- 🌱 I’m currently learning HTML, css, js, boostrap, and Python
-- 💞️ I’m looking to collaborate on SpaceX
-- 📫 How to reach me Tajikistan 🇹🇯, Dushanbe
+Idris
